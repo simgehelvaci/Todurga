@@ -1,2 +1,2 @@
 # Todurga
-Nomedic Travel Application
+Nomadic Travel Application
